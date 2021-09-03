@@ -1,7 +1,7 @@
 window.INIS = {
 
     // API地址
-    api: "api.akashiyamoka.com",
+    api: "106.51.114.38",
 
     token: '19221686b6db02eb4953d688e5cb7231',
 
